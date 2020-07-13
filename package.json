@@ -19,8 +19,10 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
+    "apexcharts": "^3.19.3",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
+    "web3": "^1.2.9",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
